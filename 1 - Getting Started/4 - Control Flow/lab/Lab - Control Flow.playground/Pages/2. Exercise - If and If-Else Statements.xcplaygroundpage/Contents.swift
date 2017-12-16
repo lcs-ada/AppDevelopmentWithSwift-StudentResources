@@ -22,10 +22,11 @@ print("You've got some spending money!")
 dollars = 105
 if dollars == 105{
     print("Sorry, kid. You're broke!")
-} else if dollars == 0{
+} else if dollars == 0 {
     print("You've got some spending money!")
-} else if dollars < 100{
+} else if dollars < 100 {
     print("Looks to me like you're rich!")
 }
+
 
 //: [Previous](@previous)  |  page 2 of 9  |  [Next: App Exercise - Fitness Decisions](@next)
