@@ -19,6 +19,6 @@ var distanceTraveled: Int = 0
 /*:
  Now assign a value of 54.3 to `distanceTraveled`. Does the code compile? Go back and set an explicit type on `distanceTraveled` so the code will compile.
  */
-let distanceTraveled: Double = 54.3
+let distanceTraveledMore: Double = 54.3
 //yes.
 //: [Previous](@previous)  |  page 9 of 10  |  [Next: App Exercise - Percent Completed](@next)
